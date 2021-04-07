@@ -1,0 +1,12 @@
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net5.0\SuperFizzBuzz.deps.json
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net5.0\SuperFizzBuzz.dll
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net5.0\ref\SuperFizzBuzz.dll
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net5.0\SuperFizzBuzz.pdb
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.AssemblyInfo.cs
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.dll
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\ref\SuperFizzBuzz.dll
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.pdb
+C:\Users\Nitin\source\repos\HeadSpring-SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net5.0\SuperFizzBuzz.csprojAssemblyReference.cache
